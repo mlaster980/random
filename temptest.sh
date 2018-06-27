@@ -17,7 +17,7 @@
 # Description:
 #   This is just a temporary script for examples. It servers no other purpose.
 
-VERSION=0.0.7-thisworksnow
+VERSION=0.0.4
 
 echo "This script version is $VERSION. This script just echos out its current version."
 
